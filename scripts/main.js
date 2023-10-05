@@ -8,3 +8,7 @@ const toggleMenu = () => {
 
 document.querySelector('#toggleMenu').addEventListener('click', toggleMenu);
 
+dd {
+    display: block;
+    font-size: 8px;
+}

@@ -75,6 +75,14 @@ h2 {
     margin-top: 30px;
 }
 
+dt {
+    font-size: 14px;
+}
+
+dd {
+    font-size: 10px;
+}
+
 main {
     margin-top: 125px;
     display: grid;
