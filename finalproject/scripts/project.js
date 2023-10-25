@@ -11,7 +11,6 @@ let authorName = document.querySelector(".name")
 let inspirationalbutton = document.querySelector(".inspirational");
 const animebutton = document.querySelector(".anime");
 const ronswansonbutton = document.querySelector(".ronswanson");
-const savequotebutton = document.querySelector("savequote")
 
 // Event listeners for the buttons
 inspirationalbutton.addEventListener("click", inspirationQuote);
